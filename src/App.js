@@ -27,6 +27,8 @@ const App = () => {
         fetchCart();
     }, []);
 
+    //funky coment
+
     //handles the routing in the website. 
     return (
         <Router>
